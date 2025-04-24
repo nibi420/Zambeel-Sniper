@@ -42,5 +42,6 @@
 
 For educational use only. This repo is a **partial release** and does **not** include full functionality. Use responsibly.
 
-![Screenshot](https://github.com/user-attachments/assets/27f01dbc-fa47-4041-a515-4d9339040328)
+![Screenshot 2025-04-24 083854](https://github.com/user-attachments/assets/5a8cee73-bcbe-4f55-bf02-bf013eab3e4e)
+
 
