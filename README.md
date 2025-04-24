@@ -8,7 +8,10 @@
 
 1. Run the installer  
 2. When prompted, enter your **Organization Name** and **Keygen**  
-3. Since the Keygen isn't public, a **demo installation directory** is included to showcase how it works
+3. A **demo installation directory** is included for preview purposes  
+
+<sub><sup>*Keygen is not publicly available. This is a partial demo for illustrative use only.*</sup></sub>
+
 
 
 ![Installer](https://github.com/user-attachments/assets/71edb50a-4bc1-4a30-84d6-605a723b10c3)
@@ -40,7 +43,7 @@
 
 ## ⚠️ Disclaimer
 
-For educational use only. This repo is a **partial release** and does **not** include full functionality. Use responsibly.
+For educational use only. Use responsibly.
 
 ![Screenshot 2025-04-24 083854](https://github.com/user-attachments/assets/5a8cee73-bcbe-4f55-bf02-bf013eab3e4e)
 
